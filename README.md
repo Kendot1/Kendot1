@@ -1,10 +1,14 @@
 <h1 align="center">Kendotxz</h1>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Kendot1&amp;style=flat-square&amp;color=2563eb" alt="GitHub profile views" />
+
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=42A5F5&amp;center=true&amp;vCenter=true&amp;width=520&amp;height=35&amp;repeat=true&amp;lines=Building+full-stack+applications;Engineering+practical+AI+solutions;Studying+Computer+Science"
+    alt="Profile introduction"
+  />
 </p>
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=24&amp;duration=3000&amp;pause=900&amp;color=42A5F5&amp;center=false&amp;vCenter=true&amp;width=520&amp;height=35&amp;repeat=true&amp;lines=Building+full-stack+applications;Engineering+practical+AI+solutions;Studying+Computer+Science" alt="Profile introduction" />
+  <img src="https://komarev.com/ghpvc/?username=Kendot1&amp;style=flat-square&amp;color=2563eb" alt="GitHub profile views" />
 </p>
 
 
@@ -30,7 +34,7 @@ const kenneth = {
   <a href="mailto:kennethbitun344@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Kenneth" /></a>
 </p>
 
-Tech Stack
+## Tech Stack
 
 <p align="left">
   <img
