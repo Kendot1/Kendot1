@@ -21,6 +21,9 @@ const kenneth = {
 ## Connect
 
 <p>
+  <a href="https://kennethbitun.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/kennethbitun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/kendotxz"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/kendotxz/?hl=en"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
