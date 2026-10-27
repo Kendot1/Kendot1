@@ -1,18 +1,31 @@
-# Kenneth Bitun
+# Kendotxz
+
+<p align="right">
+  <img
+    src="https://komarev.com/ghpvc/?username=Kendot1&amp;style=flat-square&amp;color=2563eb"
+    alt="GitHub profile views"
+  />
+</p>
 
 <img
-  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=900&color=42A5F5&center=false&vCenter=true&width=520&height=35&repeat=true&lines=Building+thoughtful+web+experiences;Designing+clear+interfaces;Exploring+practical+AI"
-  alt="Building thoughtful web experiences, designing clear interfaces, exploring practical AI"
+  src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=18&amp;duration=3000&amp;pause=900&amp;color=42A5F5&amp;center=false&amp;vCenter=true&amp;width=520&amp;height=35&amp;repeat=true&amp;lines=Building+full-stack+applications;Engineering+practical+AI+solutions;Studying+Computer+Science"
+  alt="Building full-stack applications, engineering practical AI solutions, studying computer science"
 />
 
 ## About
 
-I’m a full-stack developer, UI/UX designer, and AI enthusiast. I enjoy turning ideas into useful web experiences with thoughtful interfaces and practical technology.
+```ts
+const kenneth = {
+  name: "Kenneth Bitun",
+  roles: ["Computer Science Student", "AI Engineer", "Full-Stack Developer"],
+  focus: ["AI engineering", "full-stack development"],
+};
+```
 
 ## Connect
 
 <p align="left">
-  <a href="https://github.com/Kendot1"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" /></a>
+  <a href=""><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/kennethbitun/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
   <a href="https://www.facebook.com/kendotxz"><img src="https://img.shields.io/badge/Facebook-0866FF?style=flat-square&amp;logo=facebook&amp;logoColor=white" alt="Facebook" /></a>
   <a href="https://www.instagram.com/kendotxz/?hl=en"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&amp;logo=instagram&amp;logoColor=white" alt="Instagram" /></a>
